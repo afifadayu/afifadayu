@@ -9,13 +9,10 @@ Besides that, I love music and video games to make my works better.
 [![](https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white)](https://cran.r-project.org/)
 [![](https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactnative.dev/)
 
-### :video_game: Let's play at the weekend! :joystick: 
-[![](https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/completeday/) 
-[![](https://img.shields.io/badge/Switch-%23E60012.svg?&style=for-the-badge&logo=nintendo%20switch&logoColor=white)](#)
-
 ### :mailbox: How to Reach me? :thought_balloon:
 * Instagram: https://www.instagram.com/afifadayu/ 
 * LinkedIn: https://www.linkedin.com/in/afifawd/
+* Steam : https://steamcommunity.com/id/completeday/
 
 <!--
 **afifadayu/afifadayu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
