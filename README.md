@@ -1,11 +1,10 @@
-# Hi, I'm Dayu! :wave:
+# Oh, Hi! :wave:
 
-A double major student in Computer Science — Applied Statistics. I am interested in the fields of technology, design, and people development.
+Everyone calls me by my middle name, Dayu. Graduated with two degrees of Bachelor of Science in Computer Science and Statistics. Working as a business intelligence which aligned with my degree(s) and interest. Do coding, designing, and volunteering during free time. Also love to do a collaboration with others and excited to make great work as a team.
 
-### :thought_balloon: Get in touch!
+### :thought_balloon: You can contact me through Instagram or LinkedIn,
 * Instagram: https://www.instagram.com/afifadayu/ 
 * LinkedIn: https://www.linkedin.com/in/afifawd/
-* Steam : https://steamcommunity.com/id/completeday/
 
 <!--
 **afifadayu/afifadayu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
